@@ -3,7 +3,7 @@ User Experience Information
 ## Mapping User Stories in Agile
 User Experience Information
 
-![image](https://www.nngroup.com/articles/user-story-mapping/
+![image](images/user-story-mapping.png)
 
 ![image](https://media.nngroup.com/media/editor/2020/11/30/story-map-levels)
 
