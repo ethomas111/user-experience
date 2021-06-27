@@ -3,42 +3,52 @@
 ## Prerequisite
 Persona
 
+Motivation and Value Proposition
+
+Capability Subject Area
+
 Activities
 
-Output/Outcome/Impact
+Activity Output/Outcome/Impact
 
 
 
 ## Deliverables
-Activity Diagram for each flow
+Activity diagram for each flow
+
+Detail UX for each view
+- layout/spacing
+- style guide
+- data elements
+- ui elements
 
 Estimations for each view
 
-Detail Screen UX for each view
-
 ## User Flow Steps
 <img src='images/view_user_flow_steps.png' /> 
+
+## User Flow Activity Diagram
 <img src='images/view_user_flow_login.png' /> 
 
-## User Flow Diagram
+## User Flow Layout Diagram
 <img src='images/view_user_flow.png' /> 
 
-## Determine Navigation
+## Determine Navigation and View Style
 <img src='images/view_navigation.png' /> 
 
 
 # UI References
 
-### Activity Screen
+### Activity View
 <img src="images/view_activity_screen.png" /> 
 
-### End Screen
+### End View
 <img src='images/view_end_screen.png' /> 
 
 
-### Launch Screen
+### Launch View
 <img src='images/view_launch_screen.png' /> 
 
-### Space Screen
+### Space View
 <img src='images/view_space_screen.png' /> 
 
