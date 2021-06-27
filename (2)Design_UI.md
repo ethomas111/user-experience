@@ -2,6 +2,10 @@
 ## Deliverables
 Activity Diagram
 
+## User Flow Steps
+<img src='images/view_user_flow_steps.png' /> 
+<img src='images/view_user_flow_login.png' /> 
+
 ## User Flow Diagram
 <img src='images/view_user_flow.png' /> 
 
