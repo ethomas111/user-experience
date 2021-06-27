@@ -1,1 +1,1 @@
-<img src="images/layout_view.png" />
+<img src="images/ux_delivery/layout_view.png" />
