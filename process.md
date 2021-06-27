@@ -1,2 +1,2 @@
  
-<img src="images/process_activities" width="80%">
+<img src="images/process_activities.png" width="80%">
