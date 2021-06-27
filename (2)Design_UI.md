@@ -1,4 +1,14 @@
 # User Flow
+
+## Prerequisite
+Persona
+
+Activities
+
+Output/Outcome/Impact
+
+
+
 ## Deliverables
 Activity Diagram for each flow
 
