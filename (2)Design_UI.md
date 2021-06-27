@@ -1,4 +1,6 @@
 # User Flow
+## Deliverables
+Activity Diagram
 
 ## User Flow Diagram
 <img src='images/view_user_flow.png' /> 
