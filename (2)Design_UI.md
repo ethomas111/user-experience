@@ -17,10 +17,16 @@ Activity Output/Outcome/Impact
 Activity diagram for each flow
 
 Detail UX for each view
-- layout/spacing
-- style guide
-- data elements
-- ui elements
+- Layout
+- Spacing
+- Color
+- Typography
+- Icons
+- Images
+- Design theory
+- UI elements
+- Data elements
+- Style guide
 
 Estimations for each view
 
