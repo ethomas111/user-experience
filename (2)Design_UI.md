@@ -1,7 +1,9 @@
 # User Flow
 ## Deliverables
 Activity Diagram
+
 Estimations
+
 Detail Screen UX
 
 ## User Flow Steps
