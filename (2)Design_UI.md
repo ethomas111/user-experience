@@ -1,10 +1,10 @@
 # User Flow
 ## Deliverables
-Activity Diagram
+Activity Diagram for each flow
 
-Estimations
+Estimations for each view
 
-Detail Screen UX
+Detail Screen UX for each view
 
 ## User Flow Steps
 <img src='images/view_user_flow_steps.png' /> 
