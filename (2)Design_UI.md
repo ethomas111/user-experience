@@ -1,6 +1,8 @@
 # User Flow
 ## Deliverables
 Activity Diagram
+Estimations
+Detail Screen UX
 
 ## User Flow Steps
 <img src='images/view_user_flow_steps.png' /> 
