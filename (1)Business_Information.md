@@ -18,17 +18,18 @@
 ## Determine Process Ownership
 <img src="images/process_ownership.png" width="30%">
 
+## Determine Subject Areas
 
-## Determine Activities
+## Determine Activities and Scenarios Names
 <img src="images/process_activities.png" width="80%">
 
-## Determine Detail Steps
+## Determine Activity and Scenario Detail Steps
 <img src="images/process_detail_steps.png" width="80%">
 
-## Determine Detail Tasks
+## Determine Activity Detail Tasks
 <img src="images/process_detail_tasks.png" width="80%">
 
-## Determine Support Tasks
+## Determine Support Activities and Tasks
 <img src="images/process_support_tasks.png" width="80%">
 
 
